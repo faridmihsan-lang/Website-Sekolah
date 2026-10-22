@@ -1,0 +1,6 @@
+{
+  "name": "Pesantren Tahfidz Telaga Al Kautsar",
+  "description": "Website resmi Pesantren Tahfidz Telaga Al Kautsar. Pendidikan Islam berbasis Al-Qur'an, kepemimpinan, dan teknologi masa depan (coding & robotik). Informasi PPDB santri baru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
